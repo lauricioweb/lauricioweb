@@ -1,4 +1,5 @@
-![Descrição da imagem](shark.gif)
+<img src="shark.gif" alt="Descrição da imagem" width="200px">
+
 
 <!-- <div>
  <a href="https://github.com/lauriciodev"></a>
