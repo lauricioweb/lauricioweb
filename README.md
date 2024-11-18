@@ -1,4 +1,4 @@
-<img src="shark.gif" alt="Descrição da imagem" width="200px">
+<img src="lau-all-elements.gif" alt="Descrição da imagem" width="200px">
 
 
 <!-- <div>
