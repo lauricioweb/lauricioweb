@@ -1,10 +1,11 @@
-<!--       <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lauricioweb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<img src="lau-all-elements.gif" alt="Descrição da imagem" width="200px">
+  <!-- Imagem GIF -->
+  <img src="lau-all-elements.gif" alt="Descrição da imagem" style="width: 200px;">
 
-
-<div>
-      <img height="220em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauricioweb&layout=compact&langs_count=20&theme=dark"/>
- </div>
- 
+  <!-- Div contendo o gráfico -->
+  <div style="background-color: red; padding: 20px;">
+    <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauricioweb&layout=compact&langs_count=20&theme=dark" alt="GitHub Stats">
+  </div>
+  
+</div>
